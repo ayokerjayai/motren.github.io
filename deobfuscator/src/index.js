@@ -1,7 +1,7 @@
 import * as monaco from "monaco-editor";
 import {KeyCode, KeyMod } from "monaco-editor";
 import tsWorker from "monaco-editor/esm/vs/language/typescript/ts.worker?worker";
-import "./tools.js";
+import "./src/tools.js";
 
 /* Editor Initialization */
 
