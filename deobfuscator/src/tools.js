@@ -346,5 +346,5 @@ window.simplifyHex = function () {
 };
 
 window.gotoRepo = function () {
-  window.open("https://github.com/willnode/deobfuscator", "_blank");
+  window.open("https://cdn.motren.id/deobfuscator/", "_blank");
 };
